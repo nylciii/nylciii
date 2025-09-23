@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Donyl Amorganda
+# Hi there! I'm Donyl Amorganda
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Engineering+Graduate;Full+Stack+Developer;Bringing+Imaginations+to+Reality!" alt="Typing SVG" />
@@ -13,28 +13,20 @@
 
 ## 🛠️ Technologies I Work With
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Other Technologies
-![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
+  <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/tailwindcss" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/firebase" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/php" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/kotlin" width="64px" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -70,17 +62,6 @@ Kotlin-based mood tracking app for monitoring emotional well-being
 - **Tech Stack:** Kotlin
 - **Features:** Color wheel interface, mood pattern tracking, mental health insights
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nylciii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nylciii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nylciii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
 ## 🎯 Currently
 - 🌱 Exploring advanced React patterns and modern web technologies
 - 🔨 Building innovative full-stack applications
@@ -112,21 +93,5 @@ University of San Carlos - Collegiate Engineering Council
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nylciii&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
   ⭐️ From [nylciii](https://github.com/nylciii) | Bringing imaginations to reality! 🚀
 </div>
-<!--
-**nylciii/nylciii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
