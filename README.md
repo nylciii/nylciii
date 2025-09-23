@@ -1,4 +1,4 @@
-# Hi there! I'm Donyl Amorganda
+# Hi there! 👋 I'm Donyl Amorganda
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Engineering+Graduate;Full+Stack+Developer;Bringing+Imaginations+to+Reality!" alt="Typing SVG" />
@@ -13,54 +13,36 @@
 
 ## 🛠️ Technologies I Work With
 
-<div style="display: flex; gap: 2px; align-items: center; flex-wrap: wrap;">
+<div align="center">
   <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/expressjs" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/tailwindcss" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/firebase" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/supabase" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/php" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/laravel" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/kotlin" width="64px" />
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Popular Projects
 
-### 🌐 [Portfolio Website](https://nylciiiportfolio.netlify.app/)
-My personal portfolio showcasing my projects and skills
-- **Tech Stack:** React, Vite, Tailwind CSS
-- **Features:** Responsive design, modern UI/UX
-- **Deployed:** Netlify
+<div align="center">
 
-### 🏠 Septic Tank Monitoring System
-A monitoring system designed to wirelessly track septic tank capacity
-- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Firebase
-- **Hardware:** Arduino UNO R3, ESP32, LoRa SX1278
-- **Features:** Real-time monitoring, sensor data collection
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nylciii&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nylciii/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nylciii&repo=septic-tank-monitoring&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nylciii/septic-tank-monitoring)
 
-### ✈️ TravelKeep
-Full-stack web application for organizing and preserving travel memories
-- **Tech Stack:** React, Node.js, Tailwind CSS, Firestore, Express.js
-- **Features:** Cloud-based platform, intuitive interface
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nylciii&repo=travelkeep&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nylciii/travelkeep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nylciii&repo=geolocation-usercred&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nylciii/geolocation-usercred)
 
-### 🗃️ InformationApp (Knowledge Base)
-Knowledge Base WebApp built with CodeIgniter 4
-- **Tech Stack:** PHP, CodeIgniter 4, MySQL
-- **Features:** Article categorization, user access control
-
-### 📍 Geolocation UserCred
-Modern web application for tracking IP addresses and geographical locations
-- **Tech Stack:** React, MySQL, PHP-Laravel, Laravel-Sanctum, Node.js
-- **Features:** IP tracking, geographical mapping
-
-### 💭 Moodful
-Kotlin-based mood tracking app for monitoring emotional well-being
-- **Tech Stack:** Kotlin
-- **Features:** Color wheel interface, mood pattern tracking, mental health insights
+</div>
 
 ## 🎯 Currently
 - 🌱 Exploring advanced React patterns and modern web technologies
