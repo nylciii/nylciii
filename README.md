@@ -17,12 +17,10 @@
   <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/expressjs" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/tailwindcss" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/firebase" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/supabase" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/php" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/laravel" width="64px" />
@@ -32,17 +30,7 @@
   <img src="https://iconic-api.onrender.com/dark/kotlin" width="64px" />
 </div>
 
-## 🚀 Popular Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nylciii&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nylciii/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nylciii&repo=septic-tank-monitoring&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nylciii/septic-tank-monitoring)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nylciii&repo=travelkeep&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nylciii/travelkeep)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nylciii&repo=geolocation-usercred&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nylciii/geolocation-usercred)
-
-</div>
 
 ## 🎯 Currently
 - 🌱 Exploring advanced React patterns and modern web technologies
