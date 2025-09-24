@@ -28,9 +28,10 @@
   <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/kotlin" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/figma" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/canva" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/arduino" width="64px" />
+
+
 </div>
+
 
 
 ## 🎯 Currently
