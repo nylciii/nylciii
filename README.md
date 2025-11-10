@@ -35,9 +35,9 @@
 
 
 ## 🎯 Currently
-- 🌱 Exploring advanced React patterns and modern web technologies
+- 🌱 Exploring modern web technologies
 - 🔨 Building innovative full-stack applications
-- 🎓 Recent Computer Engineering graduate 
+- 🎓 Computer Engineering graduate 
 - 💡 Always learning and adapting to new technologies
 
 ## 🏆 Experience & Education
