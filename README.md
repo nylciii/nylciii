@@ -23,7 +23,6 @@
   <img src="https://cdn.simpleicons.org/python" width="64px" />
   <img src="https://cdn.simpleicons.org/php" width="64px" />
   <img src="https://cdn.simpleicons.org/laravel" width="64px" />
-  <img src="https://cdn.simpleicons.org/oracle" width="64px" />
   <img src="https://cdn.simpleicons.org/c" width="64px" />
   <img src="https://cdn.simpleicons.org/cplusplus" width="64px" />
   <img src="https://cdn.simpleicons.org/kotlin" width="64px" />
