@@ -12,27 +12,23 @@
 
 ## 🛠️ Technologies I Work With
 <div align="center">
-  <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/firebase" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/php" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/laravel" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/kotlin" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/figma" width="64px" />
-
-
+  <img src="https://cdn.simpleicons.org/react" width="64px" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="64px" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="64px" />
+  <img src="https://cdn.simpleicons.org/javascript" width="64px" />
+  <img src="https://cdn.simpleicons.org/typescript" width="64px" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="64px" />
+  <img src="https://cdn.simpleicons.org/mysql" width="64px" />
+  <img src="https://cdn.simpleicons.org/firebase" width="64px" />
+  <img src="https://cdn.simpleicons.org/python" width="64px" />
+  <img src="https://cdn.simpleicons.org/php" width="64px" />
+  <img src="https://cdn.simpleicons.org/laravel" width="64px" />
+  <img src="https://cdn.simpleicons.org/oracle" width="64px" />
+  <img src="https://cdn.simpleicons.org/c" width="64px" />
+  <img src="https://cdn.simpleicons.org/cplusplus" width="64px" />
+  <img src="https://cdn.simpleicons.org/kotlin" width="64px" />
+  <img src="https://cdn.simpleicons.org/figma" width="64px" />
 </div>
-
-
 
 ## 🎯 Currently
 - 🌱 Exploring modern web technologies
