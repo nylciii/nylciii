@@ -27,7 +27,6 @@
   <img src="https://cdn.simpleicons.org/cplusplus" width="64px" />
   <img src="https://cdn.simpleicons.org/kotlin" width="64px" />
   <img src="https://cdn.simpleicons.org/figma" width="64px" />
-  <img src="https://cdn.simpleicons.org/python" width="64px" />
 </div>
 
 ## 🎯 Currently
