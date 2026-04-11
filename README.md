@@ -35,12 +35,17 @@ I am continuously building my skills in automation testing, API testing, and mod
 ---
 
 ### 🧪 QA & Automation Tools
-- **Postman** – API testing and automation  
-- **Selenium** – Web automation testing  
-- **Cypress** – End-to-end testing (JavaScript-based)  
-- **Robot Framework** – Acceptance testing and automation  
-- **Katalon Studio** – Integrated testing platform  
-- **JIRA** – Bug tracking and project management  
+<div align="center">
+  <img src="https://cdn.simpleicons.org/postman" width="50px" />
+  <img src="https://cdn.simpleicons.org/selenium" width="50px" />
+  <img src="https://cdn.simpleicons.org/cypress" width="50px" />
+  <img src="https://cdn.simpleicons.org/python" width="50px" />
+  <img src="https://cdn.simpleicons.org/jira" width="50px" />
+</div>
+
+<div align="center">
+Postman • Selenium • Cypress • Robot Framework • Katalon Studio • JIRA
+</div>
 
 ---
 
