@@ -32,6 +32,10 @@ I am continuously building my skills in automation testing, API testing, and mod
   <img src="https://cdn.simpleicons.org/mysql" width="50px" />
 </div>
 
+<div align="center">
+React • Node.js • JavaScript • TypeScript • Tailwind • Python • PHP • Laravel • C++ • MySQL
+</div>
+
 ---
 
 ### 🧪 QA & Automation Tools
@@ -49,20 +53,24 @@ Postman • Selenium • Cypress • Robot Framework • Katalon Studio • JIRA
 
 ---
 
-## 🎯 Currently
-- Building QA automation projects  
-- Practicing API and end-to-end testing  
-- Exploring test frameworks and automation tools  
-- Strengthening both manual and automated testing skills  
+## 🏆 Experience & Education
+
+### 💼 Experience
+
+**Backend Intern – Focus Bear**  
+- Assisted in backend development and system improvements  
+- Worked with APIs and contributed to feature implementations  
+- Gained experience in debugging and maintaining backend services  
+
+**AI Analyst – Innodata**  
+- Performed data analysis and annotation for AI systems  
+- Ensured data accuracy and quality for machine learning models  
+- Collaborated with teams to improve AI outputs and workflows  
 
 ---
 
-## 🏆 Experience & Education
-**🎓 Education**  
+### 🎓 Education  
 BS Computer Engineering - University of San Carlos, Talamban Campus (2021-2025)
-
-**🏛️ Organizations**  
-University of San Carlos - Collegiate Engineering Council
 
 ---
 
