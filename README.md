@@ -1,39 +1,56 @@
 # Hi there! 👋 I'm Donyl Amorganda
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Engineering+Graduate;Full+Stack+Developer;Bringing+Imaginations+to+Reality!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+QA+Automation+Engineer;Computer+Engineering+Graduate;Automation+%26+Testing+Enthusiast;Ensuring+Quality+Through+Code!" alt="Typing SVG" />
 </div>
 
-## 💫 About Me
-🎓 **Computer Engineering Graduate** from University of San Carlos - Talamban Campus (2021-2025)  
-💻 **Software Engineer** who turns ideas into clean, efficient, and user-friendly web solutions  
-🚀 Love building apps that are both powerful and intuitive  
-📍 Based in **Minglanilla, Cebu, Philippines**  
-✨ **"Programming isn't about what you know; it's about what you can figure out."** - Chris Pine
+---
 
-## 🛠️ Technologies I Work With
+## About Me
+
+I am a Computer Engineering graduate from the University of San Carlos – Talamban Campus, currently pursuing a career as a Junior QA Automation Engineer.
+
+I have a background in backend and automation development, giving me a strong understanding of how systems work and how to design effective and maintainable test solutions.
+
+I am continuously building my skills in automation testing, API testing, and modern testing frameworks.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Development (Foundation)
 <div align="center">
-  <img src="https://cdn.simpleicons.org/react" width="64px" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="64px" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="64px" />
-  <img src="https://cdn.simpleicons.org/javascript" width="64px" />
-  <img src="https://cdn.simpleicons.org/typescript" width="64px" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="64px" />
-  <img src="https://cdn.simpleicons.org/mysql" width="64px" />
-  <img src="https://cdn.simpleicons.org/firebase" width="64px" />
-  <img src="https://cdn.simpleicons.org/python" width="64px" />
-  <img src="https://cdn.simpleicons.org/php" width="64px" />
-  <img src="https://cdn.simpleicons.org/laravel" width="64px" />
-  <img src="https://cdn.simpleicons.org/c" width="64px" />
-  <img src="https://cdn.simpleicons.org/cplusplus" width="64px" />
-  <img src="https://cdn.simpleicons.org/kotlin" width="64px" />
-  <img src="https://cdn.simpleicons.org/figma" width="64px" />
+  <img src="https://cdn.simpleicons.org/react" width="50px" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="50px" />
+  <img src="https://cdn.simpleicons.org/javascript" width="50px" />
+  <img src="https://cdn.simpleicons.org/typescript" width="50px" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="50px" />
+  <img src="https://cdn.simpleicons.org/python" width="50px" />
+  <img src="https://cdn.simpleicons.org/php" width="50px" />
+  <img src="https://cdn.simpleicons.org/laravel" width="50px" />
+  <img src="https://cdn.simpleicons.org/cplusplus" width="50px" />
+  <img src="https://cdn.simpleicons.org/mysql" width="50px" />
 </div>
+
+---
+
+### 🧪 QA & Automation Tools
+- **Postman** – API testing and automation  
+- **Selenium** – Web automation testing  
+- **Cypress** – End-to-end testing (JavaScript-based)  
+- **Robot Framework** – Acceptance testing and automation  
+- **Katalon Studio** – Integrated testing platform  
+- **JIRA** – Bug tracking and project management  
+
+---
 
 ## 🎯 Currently
-- 🌱 Exploring modern web technologies
-- 🔨 Building innovative full-stack applications
-- 🎓 Computer Engineering graduate 
-- 💡 Always learning and adapting to new technologies
+- Building QA automation projects  
+- Practicing API and end-to-end testing  
+- Exploring test frameworks and automation tools  
+- Strengthening both manual and automated testing skills  
+
+---
 
 ## 🏆 Experience & Education
 **🎓 Education**  
@@ -41,6 +58,8 @@ BS Computer Engineering - University of San Carlos, Talamban Campus (2021-2025)
 
 **🏛️ Organizations**  
 University of San Carlos - Collegiate Engineering Council
+
+---
 
 ## 📫 Let's Connect!
 <div align="center">
@@ -56,6 +75,7 @@ University of San Carlos - Collegiate Engineering Council
 </div>
 
 ---
+
 <div align="center">
-  ⭐️ From [nylciii](https://github.com/nylciii) | Bringing imaginations to reality! 🚀
+  ⭐️ From [nylciii](https://github.com/nylciii) | Ensuring quality through automation 🚀
 </div>
