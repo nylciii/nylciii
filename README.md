@@ -8,11 +8,7 @@
 
 ## About Me
 
-I am a Computer Engineering graduate from the University of San Carlos – Talamban Campus, currently pursuing a career as a Junior QA Automation Engineer.
-
-I have a background in backend and automation development, giving me a strong understanding of how systems work and how to design effective and maintainable test solutions.
-
-I am continuously building my skills in automation testing, API testing, and modern testing frameworks.
+I am a Computer Engineering graduate from the University of San Carlos – Talamban Campus, currently pursuing a career as a Junior QA Automation Engineer, while having a background in backend and automation development, giving me a strong understanding of how systems work and how to design effective and maintainable test solutions, and I am continuously building my skills in automation testing, API testing, and modern testing frameworks.
 
 ---
 
