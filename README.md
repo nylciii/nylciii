@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Donyl Amorganda
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+QA+Automation+Engineer;Computer+Engineering+Graduate;Automation+%26+Testing+Enthusiast;Ensuring+Quality+Through+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Graduate;Automation+%26+Testing+Enthusiast;Ensuring+Quality+Through+Code!" alt="Typing SVG" />
 </div>
 
 ---
@@ -53,7 +53,7 @@ Postman • Selenium • Cypress • Robot Framework • Katalon Studio • JIRA
 
 ### 💼 Experience
 
-**Backend Intern – Focus Bear**  
+**Automation Developer – Focus Bear**  
 - Assisted in backend development and system improvements  
 - Worked with APIs and contributed to feature implementations  
 - Gained experience in debugging and maintaining backend services  
