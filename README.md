@@ -51,8 +51,8 @@ Postman • Selenium • Cypress • Robot Framework • Zephyr • JIRA
   <img src="https://cdn.simpleicons.org/n8n" width="50px" />
   <img src="https://cdn.simpleicons.org/googleappsscript" width="50px" />
   <img src="https://cdn.simpleicons.org/openai" width="50px" />
-  <img src="https://cdn.simpleicons.org/anthropic" width="50px" />
   <img src="https://cdn.simpleicons.org/githubcopilot" width="50px" />
+  <img src="https://cdn.simpleicons.org/google" width="50px" />
 </div>
 <div align="center">
 n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Validation • ChatGPT • Claude • Cursor • GitHub Copilot • Gemini
@@ -97,7 +97,7 @@ Git • GitHub • Linux • Arduino • ESP32
 
 ---
 
-## 🚀 Projects
+## 🚀 Sample Projects
 
 **Septic Tank Monitoring System**
 - Built an IoT system using Arduino, ESP32, LoRa, GSM, and Firebase to monitor septic tank levels in real time
