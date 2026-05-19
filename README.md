@@ -50,9 +50,12 @@ Postman • Selenium • Cypress • Robot Framework • Zephyr • JIRA
 <div align="center">
   <img src="https://cdn.simpleicons.org/n8n" width="50px" />
   <img src="https://cdn.simpleicons.org/googleappsscript" width="50px" />
+  <img src="https://cdn.simpleicons.org/openai" width="50px" />
+  <img src="https://cdn.simpleicons.org/anthropic" width="50px" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" width="50px" />
 </div>
 <div align="center">
-n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Validation
+n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Validation • ChatGPT • Claude • Cursor • GitHub Copilot • Gemini
 </div>
 
 ---
@@ -61,6 +64,7 @@ n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Va
 <div align="center">
   <img src="https://cdn.simpleicons.org/github" width="50px" />
   <img src="https://cdn.simpleicons.org/linux" width="50px" />
+  <img src="https://cdn.simpleicons.org/arduino" width="50px" />
 </div>
 <div align="center">
 Git • GitHub • Linux • Arduino • ESP32
@@ -93,11 +97,27 @@ Git • GitHub • Linux • Arduino • ESP32
 
 ---
 
+## 🚀 Projects
+
+**Septic Tank Monitoring System**
+- Built an IoT system using Arduino, ESP32, LoRa, GSM, and Firebase to monitor septic tank levels in real time
+- Wrote and ran unit, integration, and system test cases to validate data transmission and SMS alert functionality
+
+**Expense Tracker**
+- Built a React web app covering income and expense tracking with full CRUD operations
+- Wrote test cases for core logic and edge cases, fixing UI and functional issues found during testing
+
+**Circuit Solver Using Gauss-Seidel Method**
+- Built a Java desktop app that solves circuit equations, verified against manual calculations
+- Found numerical edge cases during testing and improved solver reliability based on results
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nylciiiportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://scherzcode.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donylamorganda/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcamorganda@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nylciii)
