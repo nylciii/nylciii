@@ -49,13 +49,15 @@ Postman • Selenium • Cypress • Robot Framework • Zephyr • JIRA
 ### ⚙️ Automation & AI
 <div align="center">
   <img src="https://cdn.simpleicons.org/n8n" width="50px" />
-  <img src="https://cdn.simpleicons.org/googleappsscript" width="50px" />
   <img src="https://cdn.simpleicons.org/openai" width="50px" />
   <img src="https://cdn.simpleicons.org/githubcopilot" width="50px" />
-  <img src="https://cdn.simpleicons.org/google" width="50px" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" height="50px" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" height="50px" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" height="50px" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="50px" />
 </div>
 <div align="center">
-n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Validation • ChatGPT • Claude • Cursor • GitHub Copilot • Gemini
+n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Validation • ChatGPT • Claude • Claude Code • Cursor • GitHub Copilot • Gemini
 </div>
 
 ---
