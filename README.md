@@ -49,7 +49,7 @@ Postman • Selenium • Cypress • Robot Framework • Zephyr • JIRA
 ### ⚙️ Automation & AI
 <div align="center">
   <img src="https://cdn.simpleicons.org/n8n" width="50px" />
-  <img src="https://cdn.simpleicons.org/openai" width="50px" />
+  <img src="https://cdn.simpleicons.org/chatgpt" width="50px" />
   <img src="https://cdn.simpleicons.org/githubcopilot" width="50px" />
   <img src="https://cdn.simpleicons.org/googlegemini" width="50px" />
 </div>
