@@ -1,4 +1,4 @@
-# Hey, I'm Donyl 👋
+# Donyl Amorganda
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineer;Automation+%26+QA+Enthusiast;Building+Things+to+Shape+What+Comes+Next!" alt="Typing SVG" />
