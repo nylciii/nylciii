@@ -36,7 +36,15 @@ Postman • Selenium • Cypress • Robot Framework • Zephyr • JIRA
 
 ### ⚙️ Automation & AI
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoho_Flow-E42527?style=for-the-badge&logo=zoho&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 <div align="center">
 n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Validation • ChatGPT • Claude • Claude Code • Cursor • GitHub Copilot • Gemini
