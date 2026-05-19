@@ -16,16 +16,7 @@ Computer Engineer with a background in automation, AI workflows, and software te
 
 ### 💻 Development
 <div align="center">
-  <img src="https://cdn.simpleicons.org/react" width="50px" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="50px" />
-  <img src="https://cdn.simpleicons.org/nestjs" width="50px" />
-  <img src="https://cdn.simpleicons.org/javascript" width="50px" />
-  <img src="https://cdn.simpleicons.org/typescript" width="50px" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="50px" />
-  <img src="https://cdn.simpleicons.org/python" width="50px" />
-  <img src="https://cdn.simpleicons.org/php" width="50px" />
-  <img src="https://cdn.simpleicons.org/laravel" width="50px" />
-  <img src="https://cdn.simpleicons.org/mysql" width="50px" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,js,ts,tailwind,python,php,laravel,mysql" />
 </div>
 <div align="center">
 React • Node.js • NestJS • JavaScript • TypeScript • Tailwind • Python • PHP • Laravel • MySQL
@@ -35,10 +26,7 @@ React • Node.js • NestJS • JavaScript • TypeScript • Tailwind • Pyth
 
 ### 🧪 QA & Testing
 <div align="center">
-  <img src="https://cdn.simpleicons.org/postman" width="50px" />
-  <img src="https://cdn.simpleicons.org/selenium" width="50px" />
-  <img src="https://cdn.simpleicons.org/cypress" width="50px" />
-  <img src="https://cdn.simpleicons.org/jira" width="50px" />
+  <img src="https://skillicons.dev/icons?i=postman,selenium,cypress,jira" />
 </div>
 <div align="center">
 Postman • Selenium • Cypress • Robot Framework • Zephyr • JIRA
@@ -48,10 +36,7 @@ Postman • Selenium • Cypress • Robot Framework • Zephyr • JIRA
 
 ### ⚙️ Automation & AI
 <div align="center">
-  <img src="https://cdn.simpleicons.org/n8n" width="50px" />
-  <img src="https://cdn.simpleicons.org/chatgpt" width="50px" />
-  <img src="https://cdn.simpleicons.org/githubcopilot" width="50px" />
-  <img src="https://cdn.simpleicons.org/googlegemini" width="50px" />
+  <img src="https://skillicons.dev/icons?i=github,linux" />
 </div>
 <div align="center">
 n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Validation • ChatGPT • Claude • Claude Code • Cursor • GitHub Copilot • Gemini
@@ -61,9 +46,7 @@ n8n • Zoho Flow • Google Apps Script • Prompt Engineering • AI Output Va
 
 ### 🖥️ DevOps & Systems
 <div align="center">
-  <img src="https://cdn.simpleicons.org/github" width="50px" />
-  <img src="https://cdn.simpleicons.org/linux" width="50px" />
-  <img src="https://cdn.simpleicons.org/arduino" width="50px" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino" />
 </div>
 <div align="center">
 Git • GitHub • Linux • Arduino • ESP32
