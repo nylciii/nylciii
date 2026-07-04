@@ -18,9 +18,6 @@ Computer Engineer working in SaaS technical support, with a background in automa
 
 ### Support & Analysis
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postman,jira" />
-</div>
-<div align="center">
 Salesforce • SQL • Jira • Postman • API Testing
 </div>
 
