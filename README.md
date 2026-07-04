@@ -16,7 +16,7 @@ Computer Engineer working in SaaS technical support, with a background in automa
 
 ## 🛠️ Skills
 
-### Support & Analysis
+### Support
 <div align="center">
 Salesforce • SQL • Jira • Postman • API Testing
 </div>
